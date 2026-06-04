@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <title>HEY</title>
+    </head>
+    <body bgcolor="light green">
+        
+        <p>We will cover definition lists,nested list,tables</p>
+   
+        <p>DEFINITION LIST IS -> ITEMS + DESCRIPTION OF ITEMS</p>
+     <dl>
+        <dt>APPLE</dt>
+        <dd>APLLE IS GOOD FOR HEALTH</dd>
+        <dt>MANGO</dt>
+        <dd>MANGO IS TOO SWEET AND MOSTLY LIKED FRUIT.</dd>
+     </dl>
+     <br>
+     <hr>
+     <p>NESTED LIST-> A LIST INSIDE ANOTHER LIST(MAYBE ORDERED OR UNORDERED) </p>
+     <ol type="A">
+        <li>ELECTRONIS</li>
+        <ul type="circle">
+            <li>TV</li>
+            <li>LAPTOP</li>
+            <li>IPAD</li>
+        </ul>
+        <li>GARMENTS</li>
+        <ul type="square">
+            <li>SHIRT</li>
+            <li>TSHIRT</li>
+            <li>PANTS</li>
+        </ul>
+     </ol>
+        <br>
+        <hr>
+
+     <p>TABLE-> MAKE TABLES ROWS</p>
+     <br>
+     <p>TABLE TO BE MADE </p>
+     <br>
+     <br>
+     <img src="https://i.sstatic.net/VCxSJ.png" alt="Image not found" height="200px" width="200px" />
+     <br>
+<p> HERE IS TABLE BELOW</p>
+
+    <table border="1px" solid black>
+        <tr>
+            <th>LEVEL1</th>
+            <th>LEVEL2</th>
+            <th>LEVEL3</th>
+            <th>INFO</th>
+            <th>NAME</th>
+        </tr>
+        <tr>
+            <td rowspan="6">System</td>
+            <td rowspan="4">System apps</td>
+            <td rowspan="3">SystemEnv</td>
+            <td>App test</td>
+            <td>Foo</td>
+        </tr>
+        <tr>
+            <td>App memory</td>
+            <td>foo</td>
+        </tr>
+        <tr>
+            <td>AppTest</td>
+            <td>bar</td>
+        </tr>
+        <tr>
+            <td>SystemEnv2</td>
+            <td>AppTest</td>
+            <td>bar</td>
+        </tr>
+        <tr>
+        <td rowspan="2">System Memory</td>
+        <td rowspan="2">Memory Test</td>
+        <td>Memory Func</td>
+        <td>foo</td>
+     </tr>
+     <tr>
+        <td>AppTest</td>
+        <td>foo</td>
+     </tr>
+
+    </table>
+    <br>
+    <hr>
+    <p>ADDING A VIDEO </p>
+    <video src="C:\Users\FIZAG\Downloads\search.html" alt="Video not supported" height="200px" loop muted autoplay controls>
+<br> 
+<hr>
+<p>PRACTICING PREV LECTURE </p>
+<br>
+<p>getting to another link though this page</p>
+<br>
+
+<a href="https://github.com/FizaGarg/DSA">TAP TO GET THE LINK OF MY GITHUB (DSA CODES)</a>
+<br>
+<hr>
+<font color="olive" size="100px" face="times new roman"> <u><b>YOU ARE REALLY DOING GREAT!</b></u> </font>
+    </body>
+</html>
