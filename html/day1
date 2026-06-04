@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>HELLO</title>
+    </head>
+    <body bgcolor="green">
+        <h1>heading1</h1>
+        <h6>heading6</h6>
+        <p>just a paragraph</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, eligendi.</p>
+        <hr>
+        <p>woh jana hi chahte hai jakar rhenge <br> main janne se unko kyun hi rokta hoon?</p>
+        <hr>
+        <p> iss baar <i><u><b>sawan</b></u></i> mein tum aana </p>
+        <marquee scrollamount="10" direction="up" height="300px" bgcolor="olive" behaviour="alternate" loop="2" > 
+            DEKH LENA 
+            <br>
+            yaad toh ese chiij hai fir bhi ayegi
+
+        </marquee>
+     
+       <font color=" blue" size="280px" face="times new roman">BEBE BAPU MERE NAAL</font>
+       <img src="https://i.pinimg.com/originals/f0/f0/cd/f0f0cd7a124fbc1618ee0a5135f558b5.jpg" alt="IMAGE NOT FOUND" >
+       <br>
+       <hr> 
+       <a href="https://github.com/FizaGarg/DSA">CLICK HERE TO GET THE GITHUB LINK </a>
+       <br>
+       <br>
+       <br>
+       <form>
+        <input type text=""  placeholder="enter name" >
+        <input type text="" placeholder="enter age" >
+        <input type="password" placeholder="enter password" >
+        <input type="datetime-local"> 
+        <br>
+
+        <input type="radio" > MALE 
+        <input type="radio" > FEMALE
+        <br>
+        <hr>
+        <input type="checkbox"> MAKE SURE ALL OF QUEATIONS ARE FILLED 
+        
+       </form> 
+       <p>HERE IS ORDERED LIST OF FOOR ITEMS I LIKE </p>
+       <ol>
+
+        <li>PANEER</li>
+        <li>AALO PRANTHA</li>
+        <li>GOBHI PRANTHA</li>
+
+       </ol>
+
+     <p>HERE IS UNORDERED LIST OF FOOD ITEMS I LIKE </p>
+       <ul>
+        
+        <li>PANEER</li>
+        <li>AALO PRANTHA</li>
+        <li>GOBHI PRANTHA</li>
+
+       </ul>
+   
+    <font color="sky blue " size="200px" face="arial"> ITEM I USED TO LIKE EARLIER VS THE NEW ONE  </font>
+    <br>
+    <hr>
+    <strike>SWEET POTATO</strike>   <font color="black">FRIES</font>
+
+    </body>
+</html>
